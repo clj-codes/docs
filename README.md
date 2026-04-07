@@ -21,7 +21,7 @@ Here some documentation about how to configure the repositories:
 After configuring the repositories you can run the database extraction on `docs.extractor`, then copy the resulting files inside the `docs.backend` (you can configure the url auto download in the config) and 
 start it together with the `docs.frontend`.
 
-Today I use [fly.io](https://fly.io) on [docs.clj.codes](https://docs.clj.codes/) to deploy this setup you can check the Github actions deploy files ([backend](https://github.com/clj-codes/docs.backend/blob/main/.github/workflows/flyio-deploy.yml), [frontend](https://github.com/clj-codes/docs.frontend/blob/main/.github/workflows/flyio-deploy.yml)) for some inspiration.
+~Today I use [fly.io](https://fly.io) on [docs.clj.codes](https://docs.clj.codes/) to deploy this setup you can check the Github actions deploy files ([backend](https://github.com/clj-codes/docs.backend/blob/main/.github/workflows/flyio-deploy.yml), [frontend](https://github.com/clj-codes/docs.frontend/blob/main/.github/workflows/flyio-deploy.yml)) for some inspiration.~
 
-This setup is costing only $5/month currently:
+~This setup is costing only $5/month currently:~
 <img width="735" alt="image" src="https://github.com/clj-codes/docs/assets/1683898/f0b399e1-08de-437f-b53b-b67e3b6f3ef3">
